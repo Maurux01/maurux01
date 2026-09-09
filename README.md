@@ -11,7 +11,7 @@
 
 <h1 align="center">  Tech Stack & Tools </h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,typescript,angular,nodejs,spring,django,postgresql,mongodb,linux,bash,lua,neovim,git,github"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,java,angular,nodejs,spring,django,postgresql,mongodb,linux,bash,lua,neovim,git,github"/>
 </p>
 
 
