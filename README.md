@@ -15,8 +15,10 @@
 </p>
 
 <div align="center">
+      <h1 align="center">  Stats </h1>
       
 ![Stats](https://github-flex.vercel.app/api/stats?username=maurux01&theme=dark)
-<br>
+
 ![Languages](https://github-flex.vercel.app/api/languages?username=maurux01&theme=dark)
+
 </div>
