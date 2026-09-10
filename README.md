@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
       <td width="65%" valign="middle">
         <h1 align="center"> <strong> Hi there, I'm Maurux01! </strong> </h1>
         <p><strong>Industrial Engineer</strong> turned <strong>Full Stack Developer</strong>. </p>
@@ -17,8 +17,8 @@
 <div align="center">
       <h1 align="center">  Stats </h1>
       
-![Stats](https://github-flex.vercel.app/api/stats?username=maurux01&theme=dark)
+![Stats](https://github-flex.vercel.app/api/stats?username=maurux01&theme=tokyonight)
 
-![Languages](https://github-flex.vercel.app/api/languages?username=maurux01&theme=dark)
+![Languages](https://github-flex.vercel.app/api/languages?username=maurux01&theme=tokyonight)
 
 </div>
