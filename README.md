@@ -14,4 +14,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,react,java,angular,nodejs,spring,django,postgresql,mongodb,linux,bash,lua,neovim,git,github"/>
 </p>
 
-
+<div align="center">
+      
+![Stats](https://github-flex.vercel.app/api/stats?username=maurux01&theme=dark)
+<br>
+![Languages](https://github-flex.vercel.app/api/languages?username=maurux01&theme=dark)
+</div>
