@@ -36,7 +36,7 @@ Postdata:
 -Good working with team or alone
 -Fast learner 
 
-If you want me to work to you can reach me at [mauroinfantefreelancer@gmail.com](1w6zu7edc@mozmail.com)
+If you want me to work to you can reach me [at](1w6zu7edc@mozmail.com)
 
       
 </div>
