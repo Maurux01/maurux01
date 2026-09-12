@@ -36,7 +36,8 @@ Postdata:
 -Good working with team or alone
 -Fast learner 
 
-If you want me to work to you can reach me [at](1w6zu7edc@mozmail.com)
+If you want me to work to you can reach me ➡️ <a href="1w6zu7edc@mozmail.com" target="_blank" style="color: #7aa2f7; text-decoration: none; font-weight: bold;">here</a>.</p>
+</div>
 
       
 </div>
