@@ -14,15 +14,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,react,java,angular,nodejs,spring,django,postgresql,mongodb,linux,bash,lua,neovim,git,github"/>
 </p>
 
-<div align="center">
-      <h1 align="center">  Stats </h1>
-      
-![Stats](https://github-flex.vercel.app/api/stats?username=maurux01&theme=tokyonight)
-
-![Languages](https://github-flex.vercel.app/api/languages?username=maurux01&theme=tokyonight)
-
 </div>
-<hr>
 <h1 align="center">I am looking for a job! </h1>
 <div>
 Focus: Fullstack developer
@@ -44,7 +36,7 @@ Postdata:
 -Good working with team or alone
 -Fast learner 
 
-If you want me to work to you can reach me at mauroinfantefreelancer@gmail.com
+If you want me to work to you can reach me at [mauroinfantefreelancer@gmail.com](1w6zu7edc@mozmail.com)
 
       
 </div>
