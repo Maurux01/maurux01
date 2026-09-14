@@ -1,6 +1,6 @@
 <div align="left">
       <td width="65%" valign="middle">
-        <h1 align="center"> <strong> Hi there, I'm Maurux01! </strong> </h1>
+        <h1 align="center"> <strong> About me</strong> </h1>
         <p><strong>Industrial Engineer</strong> turned <strong>Full Stack Developer</strong>. </p>
         <p>My journey started in BPOs enviroment, evolved through 4+ years of bilingual remote customer service (honing my communication, adaptability, and problem-solving skills), and has now landed exactly where I always wanted to be: <strong>building software</strong>.</p>
         <p>I combine the analytical, process-driven mindset of an Industrial Engineer with the creativity of a developer. I'm passionate about open-source technology, web development, databases, and building efficient, scalable applications.</p>
@@ -9,7 +9,7 @@
 
 <br>
 
-<h1 align="center">  Tech Stack & Tools </h1>
+<h1 align="center">  My tech </h1>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,react,java,angular,nodejs,spring,django,postgresql,mongodb,linux,bash,lua,neovim,git,github"/>
 </p>
