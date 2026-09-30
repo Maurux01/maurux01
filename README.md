@@ -10,7 +10,7 @@
 
 <h1 align="center">  My tech </h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,angular,react,nodejs,java,spring,python,django,postgresql,mongodb,linux,bash,powershell,lua,neovim,git,github"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwind,angular,react,nodejs,java,spring,python,django,postgresql,mongodb,linux,bash,powershell,lua,neovim,git,github"/>
 </p>
 
 </div>
