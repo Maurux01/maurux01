@@ -30,6 +30,6 @@
   [trabajo-git](https://github.com/Maurux01/trabajo-git)
   [Pokedex-js-generation-](https://github.com/Maurux01/Pokedex-js-generation-)
   [Blog_Game](https://github.com/SebastianGarcia333/Blog_Gamer)
-
+  [Ejercicios-calificables](https://github.com/Maurux01/EjerciciosCalificablesCh15)
 </div>
 
