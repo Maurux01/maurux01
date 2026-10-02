@@ -25,11 +25,10 @@
 
 <div align="center">
 
-⁍
-⁍
-⁍
-⁍
-⁍
+⁍https://github.com/Maurux01/taller-rappi-generation-coh15
+⁍https://github.com/Maurux01/test-git
+⁍https://github.com/Maurux01/trabajo-git
+⁍https://github.com/Maurux01/Pokedex-js-generation-
 ⁍
 
 </div>
