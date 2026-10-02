@@ -24,12 +24,12 @@
 <h1 align="center"> All i have done in generation colombia bootcamp</h1>
 
 <div align="center">
-
-⁍https://github.com/Maurux01/taller-rappi-generation-coh15
-⁍https://github.com/Maurux01/test-git
-⁍https://github.com/Maurux01/trabajo-git
-⁍https://github.com/Maurux01/Pokedex-js-generation-
-⁍
+      
+  [taller-rappi-generation-coh15](https://github.com/Maurux01/taller-rappi-generation-coh15)
+  [test-git](https://github.com/Maurux01/test-git)
+  [trabajo-git](https://github.com/Maurux01/trabajo-git)
+  [Pokedex-js-generation-](https://github.com/Maurux01/Pokedex-js-generation-)
+  [Blog_Game](https://github.com/SebastianGarcia333/Blog_Game)
 
 </div>
 
