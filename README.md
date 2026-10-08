@@ -31,6 +31,7 @@
   [Pokedex-js-generation-](https://github.com/Maurux01/Pokedex-js-generation-)
   [Blog_Game](https://github.com/SebastianGarcia333/Blog_Gamer)
   [Ejercicios-calificables](https://github.com/Maurux01/EjerciciosCalificablesCh15)
+  [laboratorio-arrays-js](https://github.com/Maurux01/Lab_Arryas_CH15)
   [laboratorio-constructores-js](https://github.com/Maurux01/lab-constructoresjs-generationcol-coh15)
   
   
