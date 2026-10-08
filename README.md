@@ -25,15 +25,13 @@
 
 <div align="center">
       
-  [taller-rappi-generation-coh15](https://github.com/Maurux01/taller-rappi-generation-coh15)
-  [test-git](https://github.com/Maurux01/test-git)
-  [trabajo-git](https://github.com/Maurux01/trabajo-git)
-  [Pokedex-js-generation-](https://github.com/Maurux01/Pokedex-js-generation-)
-  [Blog_Game](https://github.com/SebastianGarcia333/Blog_Gamer)
-  [Ejercicios-calificables](https://github.com/Maurux01/EjerciciosCalificablesCh15)
-  [laboratorio-arrays-js](https://github.com/Maurux01/Lab_Arryas_CH15)
-  [laboratorio-constructores-js](https://github.com/Maurux01/lab-constructoresjs-generationcol-coh15)
-  
-  
+  |[Taller-rappi-generation-coh15](https://github.com/Maurux01/taller-rappi-generation-coh15)|
+  |[Test-git](https://github.com/Maurux01/test-git)|
+  |[Trabajo-git](https://github.com/Maurux01/trabajo-git)|
+  |[Pokedex-js-generation-](https://github.com/Maurux01/Pokedex-js-generation-)|
+  |[Blog_Game](https://github.com/SebastianGarcia333/Blog_Gamer)|
+  |[Ejercicios-calificables](https://github.com/Maurux01/EjerciciosCalificablesCh15)|
+  |[Laboratorio-arrays-js](https://github.com/Maurux01/Lab_Arryas_CH15)|
+  |[Laboratorio-constructores-js](https://github.com/Maurux01/lab-constructoresjs-generationcol-coh15)|
 </div>
 
