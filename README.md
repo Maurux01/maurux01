@@ -6,7 +6,7 @@
         <p align= "center"> You can find more about me  ➡️ <a href="https://maurux01.github.io/personalwebpage/" target="_blank" style="color: #7aa2f7; text-decoration: none; font-weight: bold;">here</a>.</p>
 </div>
 
-<h1 align="center">  My tech </h1>
+<h1 align="center">  My tech stack </h1>
 <p align= "center">
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwind,angular,react,nodejs,java,spring,python,django,postgresql,mongodb,linux,bash,powershell,lua,neovim,git,github"/>
 </p>
