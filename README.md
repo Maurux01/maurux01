@@ -1,9 +1,9 @@
 <div align="left">
       <td width="65%" valign="middle">
         <h1 align="center">  <strong>Industrial Engineer</strong> turned <strong>Full Stack Developer</strong>.</h1>
-        <p>My journey started in BPOs enviroment, evolved through 4+ years of bilingual remote customer service (honing my communication, adaptability, and problem-solving skills), and has now landed exactly where I always wanted to be: <strong>building software</strong>.</p>
-        <p>I combine the analytical, process-driven mindset of an Industrial Engineer with the creativity of a developer. I'm passionate about open-source technology, web development, databases, and building efficient, scalable applications.</p>
-        <p> You can find more about me  ➡️ <a href="https://maurux01.github.io/personalwebpage/" target="_blank" style="color: #7aa2f7; text-decoration: none; font-weight: bold;">here</a>.</p>
+        <p align= "center">My journey started in BPOs enviroment, evolved through 4+ years of bilingual remote customer service (honing my communication, adaptability, and problem-solving skills), and has now landed exactly where I always wanted to be: <strong>building software</strong>.</p>
+        <p align= "center">I combine the analytical, process-driven mindset of an Industrial Engineer with the creativity of a developer. I'm passionate about open-source technology, web development, databases, and building efficient, scalable applications.</p>
+        <p align= "center"> You can find more about me  ➡️ <a href="https://maurux01.github.io/personalwebpage/" target="_blank" style="color: #7aa2f7; text-decoration: none; font-weight: bold;">here</a>.</p>
 </div>
 
 <h1 align="center">  My tech </h1>
