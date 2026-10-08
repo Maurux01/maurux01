@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">  My tech </h1>
-<p align="center">
+<p align= "center">
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwind,angular,react,nodejs,java,spring,python,django,postgresql,mongodb,linux,bash,powershell,lua,neovim,git,github"/>
 </p>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-⁍[Top-colombia-contributions](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/colombia.md)
+|[Top-colombia-contributions](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/colombia.md)|
 
 </div>
 
