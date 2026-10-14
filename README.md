@@ -33,9 +33,8 @@
   |[Taller-herencias-js](https://github.com/Maurux01/Lab_ClasesJS_CH15)|
   |[weblab](https://github.com/Maurux01/Lab_WebJS_CH15)|
   |[csslab](https://github.com/Maurux01/LaboratorioBOX-MODEL)|
-  |[jslab](https://github.com/Maurux01/logica-programacion-1
-)|
-
+  |[jslab](https://github.com/Maurux01/logica-programacion-1)|
+  |[gruoplab](https://github.com/vbucurumalambo-glitch/Blog-)|
 
 </div>
 
