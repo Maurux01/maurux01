@@ -32,7 +32,7 @@
   |[Laboratorio-constructores-js](https://github.com/Maurux01/lab-constructoresjs-generationcol-coh15)|
   |[Taller-herencias-js](https://github.com/Maurux01/Lab_ClasesJS_CH15)|
   |[weblab](https://github.com/Maurux01/Lab_WebJS_CH15)|
-  |[csslab]()|
+  |[csslab](https://github.com/Maurux01/LaboratorioBOX-MODEL)|
   |[jslab](https://github.com/Maurux01/logica-programacion-1
 )|
 
