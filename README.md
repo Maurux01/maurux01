@@ -27,14 +27,14 @@
   |[Trabajo-git](https://github.com/Maurux01/trabajo-git)|
   |[Pokedex-js-generation-](https://github.com/Maurux01/Pokedex-js-generation-)|
   |[Blog_Game](https://github.com/SebastianGarcia333/Blog_Gamer)|
+  |[Mini-cajero](https://github.com/AndresMauricioArangoG/minicajeroGeneration)|
   |[Ejercicios-calificables](https://github.com/Maurux01/EjerciciosCalificablesCh15)|
   |[Laboratorio-arrays-js](https://github.com/Maurux01/Lab_Arryas_CH15)|
   |[Laboratorio-constructores-js](https://github.com/Maurux01/lab-constructoresjs-generationcol-coh15)|
   |[Taller-herencias-js](https://github.com/Maurux01/Lab_ClasesJS_CH15)|
-  |[weblab](https://github.com/Maurux01/Lab_WebJS_CH15)|
-  |[csslab](https://github.com/Maurux01/LaboratorioBOX-MODEL)|
-  |[jslab](https://github.com/Maurux01/logica-programacion-1)|
-  |[gruoplab](https://github.com/vbucurumalambo-glitch/Blog-)|
-
+  |[web-lab](https://github.com/Maurux01/Lab_WebJS_CH15)|
+  |[css-lab](https://github.com/Maurux01/LaboratorioBOX-MODEL)|
+  |[js-lab](https://github.com/Maurux01/logica-programacion-1)|
+  |[group-lab](https://github.com/vbucurumalambo-glitch/Blog-)|
 </div>
 
