@@ -7,7 +7,7 @@
 
 <h1 align="center">  My tech stack </h1>
 <p align= "center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwind,angular,react,nodejs,java,spring,python,django,postgresql,mongodb,linux,bash,powershell,lua,zig,neovim,git,github"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwind,angular,react,nodejs,java,spring,python,django,postgresql,mongodb,linux,arch,debian,bash,powershell,lua,zig,neovim,git,github"/>
 </p>
 </div>
 
