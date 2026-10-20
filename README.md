@@ -37,6 +37,7 @@
   |[js-lab](https://github.com/Maurux01/logica-programacion-1)|
   |[group-lab](https://github.com/vbucurumalambo-glitch/Blog-)|
   |[DOM-lab](https://github.com/JhonatanReyes276/Lab-DOM)|
+  |[Eventos-lab](https://github.com/Maurux01/Lab_EventosJS_CH15)|
 
 </div>
 
