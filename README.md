@@ -36,6 +36,7 @@
   |[css-lab](https://github.com/Maurux01/LaboratorioBOX-MODEL)|
   |[js-lab](https://github.com/Maurux01/logica-programacion-1)|
   |[group-lab](https://github.com/vbucurumalambo-glitch/Blog-)|
+  |[group-lab-boostrap](https://github.com/Maurux01/Blog-bootstrap)|
   |[DOM-lab](https://github.com/JhonatanReyes276/Lab-DOM)|
   |[Eventos-lab](https://github.com/Maurux01/Lab_EventosJS_CH15)|
   |[Boostrap-lab](https://github.com/Maurux01/Lab_Bootstrap_CH15)|
