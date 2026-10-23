@@ -34,7 +34,8 @@
   |[Taller-herencias-js](https://github.com/Maurux01/Lab_ClasesJS_CH15)|
   |[web-lab](https://github.com/Maurux01/Lab_WebJS_CH15)|
   |[css-lab](https://github.com/Maurux01/LaboratorioBOX-MODEL)|
-  |[js-lab](https://github.com/Maurux01/logica-programacion-1)|
+  |[logica-de programacion#1-lab](https://github.com/Maurux01/logica-programacion-1)|
+  |[logica-de programacion#2-lab]( https://github.com/Maurux01/logica-programacion-2.git)|
   |[group-lab](https://github.com/vbucurumalambo-glitch/Blog-)|
   |[group-lab-boostrap](https://github.com/Maurux01/Blog-bootstrap)|
   |[DOM-lab](https://github.com/JhonatanReyes276/Lab-DOM)|
