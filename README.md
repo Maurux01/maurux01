@@ -39,21 +39,32 @@
 |[Taller-java #2](https://github.com/Maurux01/Lab_BancoJavaMj3_CH15) | Java |
 |[Taller-java #3](https://github.com/Maurux01/LAB_MJ5_clinica_veterinaria) | Java |
 |[Taller-java #4](https://github.com/Maurux01/Colecciones-en-Java) | Java |
-|[Pokedex-js-generation-](https://github.com/Maurux01/Pokedex-js-generation-) | JavaScript |
 |[Ejercicios-calificables](https://github.com/Maurux01/EjerciciosCalificablesCh15) | JavaScript |
 |[Laboratorio-arrays-js](https://github.com/Maurux01/Lab_Arryas_CH15) | JavaScript |
 |[Laboratorio-constructores-js](https://github.com/Maurux01/lab-constructoresjs-generationcol-coh15) | JavaScript |
 |[Taller-herencias-js](https://github.com/Maurux01/Lab_ClasesJS_CH15) | JavaScript |
-|[DOM-lab](https://github.com/JhonatanReyes276/Lab-DOM) | JavaScript |
 |[Eventos-lab](https://github.com/Maurux01/Lab_EventosJS_CH15) | JavaScript |
 |[lab-testing-js](https://github.com/Maurux01/Lab_TestingJS_CH15) | JavaScript |
 |[lab-NPM-js](https://github.com/Ann-Lizarazo/LAB-_Using_NPM_End_of_module_Assessment) | JavaScript |
 |[Taller-rappi-generation-coh15](https://github.com/Maurux01/taller-rappi-generation-coh15) | JavaScript |
 |[logica-de programacion#2-lab](https://github.com/Maurux01/logica-programacion-2.git) | JavaScript |
+|[Pokedex-js-generation-](https://github.com/Maurux01/Pokedex-js-generation-) | JavaScript (API) |
 |[logica-de programacion#1-lab](https://github.com/Maurux01/logica-programacion-1) | Web |
 |[Blog_Game](https://github.com/SebastianGarcia333/Blog_Gamer) | Web |
+|[DOM-lab](https://github.com/JhonatanReyes276/Lab-DOM) | Web |
 |[group-lab](https://github.com/vbucurumalambo-glitch/Blog-) | Web |
 |[web-lab](https://github.com/Maurux01/Lab_WebJS_CH15) | Web |
 
 </div>
 
+<h2 align="center">Follow me</h2>
+<div align="center">
+  <a href="https://x.com/maurux01"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/x.png" alt="X" height="40" /></a>
+  <a href="https://www.reddit.com/user/maurux01/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/reddit.png" alt="Reddit" height="40" /></a>
+  <a href="https://dev.to/maurux01"><img src="https://dashboardicons.com/api/icons/external/simpleicons/devdotto/dark.png" alt="Dev.to" height="40" /></a>
+  <a href="https://daily.dev/maurux01"><img src="https://dashboardicons.com/api/icons/external/simpleicons/dailydotdev/brand.png" alt="Daily.dev" height="40" /></a>
+  <a href="https://mastodon.social/@Maurux_01"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mastodon.png" alt="Mastodon" height="40" /></a>
+  <a href="https://bsky.app/profile/maurux01.bsky.social"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/bluesky.png" alt="Bluesky" height="40" /></a>
+  <a href="https://www.linkedin.com/in/maurofelipe-infante/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/linkedin.png" alt="LinkedIn" height="40" /></a>
+  <a href="https://www.youtube.com/@maurux01"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/youtube.png" alt="YouTube" height="40" /></a>
+</div>
