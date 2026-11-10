@@ -46,6 +46,8 @@
   |[Hackaton #1 -grupo 2](https://github.com/Maurux01/hackaton-equipo2)| 
   |[Taller-java #1](https://github.com/Maurux01/taller-sistema-cafeteria)| 
   |[Taller-java #2](https://github.com/Maurux01/Lab_BancoJavaMj3_CH15)| 
+  |[Taller-java #3](https://github.com/Maurux01/LAB_MJ5_clinica_veterinaria)| 
+  |[Taller-java #4](  https://github.com/Maurux01/Colecciones-en-Java)| 
   |[Portfolio-generation](https://github.com/Maurux01/Portfolio-generationjava)| 
   |[Tabajo-de-grado(frontend)](https://github.com/AndresMauricioArangoG/Giftcraft-Front)|
   |[Tabajo-de-grado(backend)]()| 
