@@ -72,7 +72,8 @@
 |[Blog_Game](https://github.com/SebastianGarcia333/Blog_Gamer) | Web |
 |[DOM-lab](https://github.com/JhonatanReyes276/Lab-DOM) | Web |
 |[group-lab](https://github.com/vbucurumalambo-glitch/Blog-) | Web |
-|[web-lab](https://github.com/Maurux01/Lab_WebJS_CH15) | Web |
+|[web-lab](https://github.com/Maurux01/Lab_WebJS_CH15) | Web | (data-base-practice)[https://github.com/Maurux01/postgres-db-practicas-gen]
+ |
 
 </div>
 
