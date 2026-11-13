@@ -52,6 +52,7 @@
 |[Test-git](https://github.com/Maurux01/test-git) | Git |
 |[Trabajo-git](https://github.com/Maurux01/trabajo-git) | Git |
 |[Hackaton #1 -grupo 2](https://github.com/Maurux01/hackaton-equipo2) | Hackathon |
+|[Hackaton #2 -grupo 2](https://github.com/Maurux01/hackaton2-equipo2) | Hackathon |
 |[Mini-cajero](https://github.com/AndresMauricioArangoG/minicajeroGeneration) | Java |
 |[Portfolio-generation](https://github.com/Maurux01/Portfolio-generationjava) | Java |
 |[Taller-java #1](https://github.com/Maurux01/taller-sistema-cafeteria) | Java |
