@@ -56,7 +56,7 @@
 |[Mini-cajero](https://github.com/AndresMauricioArangoG/minicajeroGeneration) | Java |
 |[Portfolio-generation](https://github.com/Maurux01/Portfolio-generationjava) | Java |
 |[Taller-java #1](https://github.com/Maurux01/taller-sistema-cafeteria) | Java |
-|[Taller-java #2](https://github.com/Maurux01/Lab_BancoJavaMj3_CH15) | Java |
+|[Lab_BancoJavaMj3_CH15](https://github.com/Maurux01/Lab_BancoJavaMj3_CH15) | Java |
 |[Taller-java #3](https://github.com/Maurux01/LAB_MJ5_clinica_veterinaria) | Java |
 |[Taller-java #4](https://github.com/Maurux01/Colecciones-en-Java) | Java |
 |[Ejercicios-calificables](https://github.com/Maurux01/EjerciciosCalificablesCh15) | JavaScript |
@@ -75,7 +75,6 @@
 |[group-lab](https://github.com/vbucurumalambo-glitch/Blog-) | Web |
 |[web-lab](https://github.com/Maurux01/Lab_WebJS_CH15) | Web |
 |[data-base-practice](https://github.com/Maurux01/postgres-db-practicas-gen) | Database |
-|[Lab_BancoJavaMj3_CH15](https://github.com/Maurux01/Lab_BancoJavaMj3_CH15) | Java |
 
 </div>
 
