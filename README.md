@@ -43,12 +43,12 @@
 
 | Repositorio | Categoría |
 |---|---|
-|[Tabajo-de-grado(backend)]() | Backend |
 |[group-lab-boostrap](https://github.com/Maurux01/Blog-bootstrap) | Bootstrap |
 |[Boostrap-lab](https://github.com/Maurux01/Lab_Bootstrap_CH15) | Bootstrap |
 |[css-lab](https://github.com/Maurux01/LaboratorioBOX-MODEL) | CSS |
-|[Tabajo-de-grado(frontend)](https://github.com/AndresMauricioArangoG/Giftcraft-Front) | Frontend |
-|[Tabajo-de-grado(Personal)](https://github.com/Maurux01/TaskFlow) | Full Stack |
+|[Tabajo-de-grado(backend)]() | Grado |
+|[Tabajo-de-grado(frontend)](https://github.com/AndresMauricioArangoG/Giftcraft-Front) | Grado |
+|[Tabajo-de-grado(Personal)](https://github.com/Maurux01/TaskFlow) | Grado |
 |[Test-git](https://github.com/Maurux01/test-git) | Git |
 |[Trabajo-git](https://github.com/Maurux01/trabajo-git) | Git |
 |[Hackaton #1 -grupo 2](https://github.com/Maurux01/hackaton-equipo2) | Hackathon |
@@ -75,7 +75,7 @@
 |[group-lab](https://github.com/vbucurumalambo-glitch/Blog-) | Web |
 |[web-lab](https://github.com/Maurux01/Lab_WebJS_CH15) | Web |
 |[data-base-practice](https://github.com/Maurux01/postgres-db-practicas-gen) | Database |
-https://github.com/Maurux01/Lab_SpringBoot_CH15
+|[Lab_SpringBoot_CH15](https://github.com/Maurux01/Lab_SpringBoot_CH15) | SpringBoot |
 
 </div>
 
