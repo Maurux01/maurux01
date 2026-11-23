@@ -10,7 +10,7 @@
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/> <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black" alt="Zig"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyOCAyOCI%2BPHJlY3Qgd2lkdGg9IjI4IiBoZWlnaHQ9IjI4IiByeD0iNCIgZmlsbD0iIzAxMjQ1NiIvPjx0ZXh0IHg9IjQiIHk9IjIwIiBmb250LWZhbWlseT0iQ29uc29sYXMsbW9ub3NwYWNlIiBmb250LXNpemU9IjE2IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iI2ZmZiI%2BJmd0O188L3RleHQ%2BPC9zdmc%2B&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyOCAyOCI%2BPHJlY3Qgd2lkdGg9IjI4IiBoZWlnaHQ9IjI4IiByeD0iNCIgZmlsbD0iIzAxMjQ1NiIvPjx0ZXh0IHg9IjQiIHk9IjIwIiBmb250LWZhbWlseT0iQ29uc29sYXMsbW9ub3NwYWNlIiBmb250LXNpemU9IjE2IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iI2ZmZiI%2BJmd0O188L3RleHQ%2BPC9zdmc%2B&logoColor=white" alt="PowerShell"/>
 </p>
 
 ### ⚙️ Frameworks
@@ -46,8 +46,8 @@
 |[group-lab-boostrap](https://github.com/Maurux01/Blog-bootstrap) | Bootstrap |
 |[Boostrap-lab](https://github.com/Maurux01/Lab_Bootstrap_CH15) | Bootstrap |
 |[css-lab](https://github.com/Maurux01/LaboratorioBOX-MODEL) | CSS |
-|[Tabajo-de-grado(backend)]() | Grado |
-|[Tabajo-de-grado(frontend)](https://github.com/AndresMauricioArangoG/Giftcraft-Front) | Grado |
+|[Tabajo-de-grado(en grupo-backend)]() | Grado |
+|[Tabajo-de-grado(en grupo-frontend)](https://github.com/AndresMauricioArangoG/Giftcraft-Front) | Grado |
 |[Tabajo-de-grado(Personal)](https://github.com/Maurux01/TaskFlow) | Grado |
 |[Test-git](https://github.com/Maurux01/test-git) | Git |
 |[Trabajo-git](https://github.com/Maurux01/trabajo-git) | Git |
